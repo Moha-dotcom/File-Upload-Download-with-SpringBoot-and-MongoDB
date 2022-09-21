@@ -8,6 +8,8 @@
     - fs.chunks - store binary chunks of the file.
     
 <img width="704" alt="Screen Shot 2022-09-21 at 1 54 39 PM" src="https://user-images.githubusercontent.com/77897855/191587600-d07c4cc3-40c6-4e07-9535-d65785cd923e.png">
+<img width="993" alt="Screen Shot 2022-09-21 at 1 57 46 PM" src="https://user-images.githubusercontent.com/77897855/191587848-66a597d7-2b9e-4b16-b1bc-9059bbc86e10.png">
+
 
     
 <img width="996" alt="Screen Shot 2022-09-21 at 1 54 59 PM" src="https://user-images.githubusercontent.com/77897855/191587305-85f6d9c2-bb10-416b-a780-cb07bac9c23e.png">
